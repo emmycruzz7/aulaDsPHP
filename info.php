@@ -8,7 +8,7 @@
 <body>
     <?php
     
-    $nome = "emmy";
+    $nome = "Emmy";
     $altura = 1.64;
     $idade = 19;
     $peso = 58.8;
@@ -23,7 +23,11 @@
     $linguagem = "PHP";
 
     echo "Programar em $linguagem é muito legal! <br>";
-    echo 'Programar em $linguagem é muito legal <>br';
+    echo 'Programar em $linguagem é muito legal <br>';
+
+    echo  "\"Eu estou aprendendo PHP!\"";
+    
+   
   ?>
 </body>
 </html>
